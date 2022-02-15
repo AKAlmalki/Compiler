@@ -1,1 +1,3 @@
-struct ErrorMessage{};
+struct ErrorMessage {
+  int a;
+};
